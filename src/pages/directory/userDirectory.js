@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import "./style.css";
-import API from "../../utils/API";
+import API from "../../utils/api";
 import Table from "../../components/table/table";
 import $ from "jquery";
 
