@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import "./style.css";
 import API from "../../utils/API";
-import Table from "../../components/table/Table";
+import Table from "../../components/table/table";
 import $ from "jquery";
 
 class Form extends Component {
