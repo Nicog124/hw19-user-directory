@@ -8,6 +8,8 @@ Utilizing React.js, call up a list of users from a random user api. store their 
 MIT
 
 # SC:
+![hw19-sc1](https://user-images.githubusercontent.com/78495603/119578765-22fc5c80-bd8b-11eb-9d0f-245971036395.png)
+![hw19-sc2](https://user-images.githubusercontent.com/78495603/119578771-24c62000-bd8b-11eb-8827-edc638df9912.png)
 
 
 
