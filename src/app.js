@@ -1,4 +1,4 @@
-import "./App.css";
+import "./app.css";
 import UserDirectory from "./pages/directory/UserDirectory";
 
 function App() {
